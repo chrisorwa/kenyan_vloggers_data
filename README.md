@@ -1,4 +1,4 @@
-# Kenyan Female Vloggers YouTube Starts
+# Kenyan Female Vloggers YouTube Stats
 Statistics from YouTube on notable female Kenyan vloggers
 
 ## Data Fields
