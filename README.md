@@ -23,7 +23,10 @@ A list of Kenyan vloggers whose data was captured
 * This is Ess (https://www.youtube.com/user/ThisIsEssVideos)
 
 
-
+## Analysis
+Write up from the analysis of the data can be found on the link below:
+*"The Evolution of Kenyan Female Fashion Vloggers"
+* https://blackorwa.com/2016/12/22/the-evolution-of-kenyan-female-fashion-vloggers/*
 
 
 
