@@ -21,10 +21,13 @@ A list of Kenyan vloggers whose data was captured
 * Rikkie (https://www.youtube.com/channel/UCdXSet3vBiq_6W_SWV4h4tA)
 * Shiko Nguru (https://www.youtube.com/channel/UCE6FlFVPa2HmLNpMgpUhWzg)
 * This is Ess (https://www.youtube.com/user/ThisIsEssVideos)
+* Wanjiru Njiru (https://www.youtube.com/channel/UCjEDe4qGQGaXW6jFWaQtlUw)
+* Esther Kazungu (https://www.youtube.com/channel/UCB-igeNbD87YuTiiXDWC1LA)
 
 
 ## Analysis
 Write up from the analysis of the data can be found on the link below:
+
 *"The Evolution of Kenyan Female Fashion Vloggers"
 * https://blackorwa.com/2016/12/22/the-evolution-of-kenyan-female-fashion-vloggers/*
 
